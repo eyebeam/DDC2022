@@ -1,5 +1,36 @@
 # DDC2022
-DIGITAL DAY CAMP 2022: ACCESSIBLE SMART CITIES AND THE DIGITAL TWIN.
+
+## 2022 Program: Accessible Smart Cities and the Digital Twin
+
+In 2022, our program focused on the theme of "Accessible Smart Cities and the Digital Twin." The theme explored the intersection of technology and accessibility in urban environments, focusing on creating inclusive digital experiences. We were excited to hold this program in person at the Andrew Heiskell Braille and Talking Book Library, where we provided a hands-on and accessible learning experience for our students.
+
+## About DDC
+Established in 1998, Digital Day Camp (DDC) is New York-based Eyebeam’s longest-running program. Digital Day Camp is a six-week summer program introducing young people ages 14-18 to creative coding and digital art practices. Through workshops, participants learn to use various software and hardware tools to create interactive projects. The program culminates in a showcase event where participants present their projects to an audience of peers, family, and community members.
+Through local partnerships, we recruit applicants from schools underrepresented in STEAM programs to ensure a diverse range of ideas and backgrounds in each cohort. Each year, our students and educators are challenged to apply creative thinking strategies across various tools and topics to develop critical, empowering, and long-lasting relationships with technology and their role in it as agents of change.
+
+## Pedagogical Approach
+
+Every educational initiative is core to the furtherance of Eyebeam's mission. We believe in the following:
+
+Eyebeam’s work is guided by our core values:
+ 
+**Openness:**  Eyebeam is committed to making complex technologies understandable to the public and to make both programs and artists’ work accessible to diverse audiences. 
+ 
+**Invention:** Eyebeam encourages participating artists to engage in experimentation and to imagine and realize their aspirations.
+ 
+**Justice:** Eyebeam acknowledges that both the art world and technology realm are inequitable environments for marginalized communities and our organization believes all people are deserving of full recognition for their inherent worth and dignity, at all times.
+
+**Access:** To teach fundamental technology concepts by pairing minimal materials with maximum impact.
+
+
+
+
+
+
+## About Eyebeam
+Established in the Chelsea district of Manhattan in 1998, Eyebeam was founded as a resource for artists to engage creatively with technology in a setting that encouraged experimentation. Today, we continue to be a resource for artists and technologists alike as technology’s effect on society grows increasingly complex and problematic. In all of our work, we strive to amplify artists’ ideas that carve a path toward a more just future.
+Since 2001, the core of our programming has been our Residency, which evolved into a digital-first Fellowship in the last year. Every year we provide professional guidance, studio space, expert advice, and a significant cash award for up to 30 artists whose practices engage with the most pressing issues of our time. Unlike other fellowships, Eyebeam encourages inquiry-based practices through which artists can experiment and initiate critical dialogues with one another that are centered around technology’s effect on society. By supporting a multiplicity of artists responsive to systems of oppression, Eyebeam includes narratives that better reflect the existing plurality of genders, races, ethnicities, abilities, ages, sexual orientations, citizenships, and socioeconomic statuses to support an expansively inclusive vision of a better future.
+
 
 [Student website](https://ddcintern.wixsite.com/my-site)
 
