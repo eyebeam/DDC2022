@@ -1,5 +1,6 @@
 # DDC2022
 
+![A flyer for DDC 2022](ddc_flyer.jpg)
 ## 2022 Program: Accessible Smart Cities and the Digital Twin
 
 In 2022, our program focused on the theme of "Accessible Smart Cities and the Digital Twin." The theme explored the intersection of technology and accessibility in urban environments, focusing on creating inclusive digital experiences. We were excited to hold this program in person at the Andrew Heiskell Braille and Talking Book Library, where we provided a hands-on and accessible learning experience for our students.
