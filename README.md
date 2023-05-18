@@ -6,6 +6,7 @@ DIGITAL DAY CAMP 2022: ACCESSIBLE SMART CITIES AND THE DIGITAL TWIN.
 ## Week 1: Accessibility, Character Design, Smart Cities
 
 **History of Accessibility** - *Nihal Erkan*
+
 We learned about the history of accessibility from Nihal and put braille labels on our group boxes.
 
 **Design As A Motor For Social Change** - *Anna Abengowe, Deputy Director of the School of Architecture*
